@@ -1,0 +1,5 @@
+vara 3
+varb 2
+varA 5 (2,3) (4,5)
+varB 3 (2,1)
+vard 56

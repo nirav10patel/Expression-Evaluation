@@ -1,0 +1,7 @@
+a 1
+b 1
+vara 1
+varb 3 (2,1)
+varx 10
+vary 2
+varz 5 (2,3) (4,5)
